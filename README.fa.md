@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🜂 ktOperator
+<img width="500" height=auto alt="5987703028384993056" src="https://github.com/user-attachments/assets/4029e61e-b074-4baf-b896-99d921f6aaa2" />
+
 
 [![نسخه](https://img.shields.io/badge/version-0.6.0-8B9A6E?style=flat-square)](https://www.npmjs.com/package/@karizteam/operator)
 [![Node.js](https://img.shields.io/badge/node-%E2%89%A522.12-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -22,6 +23,10 @@ ktoperator                                                    # کنسول تع�
 operator run "این پروژه را تحلیل کن و معماری‌اش را توضیح بده"
 operator plan "آزمون‌ها را اجرا کن و خطاها را خلاصه کن"          # فقط برنامه، بدون اجرا
 ```
+
+
+<img width="1672" height="941" alt="KT Operator_ Neural Terminal Interface" src="https://github.com/user-attachments/assets/5cd8f39c-eacb-471b-897f-8222c36d4529" />
+
 
 ## ✨ امکانات اصلی
 
@@ -48,7 +53,8 @@ operator plan "آزمون‌ها را اجرا کن و خطاها را خلاص�
 | 💵 **هزینه در گوشه، نه در دستور** | کادر گفتگو هزینهٔ انباشتهٔ نشست — یا شمار توکن اگر ارائه‌دهنده قیمت اعلام نکند — را راست‌چین در خط بالایی نشان می‌دهد. مبالغ کوچک دقت خود را حفظ می‌کنند (`$0.0042`) و در ترمینال باریک، برچسب کنار می‌رود تا کادر از صفحه بیرون نزند. |
 | 🔁 **جایگزینی ارائه‌دهنده (اختیاری)** | با `fallback.enabled`، خطای محدودیت نرخ، اتمام اعتبار، timeout یا خطای 5xx همان اجرا را روی پروفایل بعدی ادامه می‌دهد. فقط خطاهای گذرا جابه‌جا می‌شوند، هرگز بعد از نمایش متن، و هر جابه‌جایی اعلام می‌شود — پیش‌فرض خاموش است. |
 
-## 🚀 نصب
+## 🚀 نصب و بروزرسانی
+
 
 ```bash
 npm i -g @karizteam/operator
