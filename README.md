@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="2560" height="635" alt="5987703028384993056" src="https://github.com/user-attachments/assets/4029e61e-b074-4baf-b896-99d921f6aaa2" />
+<img width="300" height="600" alt="5987703028384993056" src="https://github.com/user-attachments/assets/4029e61e-b074-4baf-b896-99d921f6aaa2" />
 
 [![version](https://img.shields.io/badge/version-0.6.0-8B9A6E?style=flat-square)](https://www.npmjs.com/package/@karizteam/operator)
 [![node](https://img.shields.io/badge/node-%E2%89%A522.12-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![tests](https://img.shields.io/badge/tests-358%20passing-success?style=flat-square)](#-development)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-<img width="1672" height="941" alt="KT Operator_ Neural Terminal Interface" src="https://github.com/user-attachments/assets/5cd8f39c-eacb-471b-897f-8222c36d4529" />
 
 **Take the power of your operating system using your favorite AI model.**
 
@@ -16,7 +15,7 @@
 </div>
 
 ---
-
+<img width="1672" height="941" alt="KT Operator_ Neural Terminal Interface" src="https://github.com/user-attachments/assets/5cd8f39c-eacb-471b-897f-8222c36d4529" />
 **ktOperator** is a terminal AI agent you can actually hand your machine to. You
 describe the task in plain language — *“analyze this project”*, *“what is using
 port 3000?”*, *“open Opera GX”* — and it plans, reads, writes and runs commands
