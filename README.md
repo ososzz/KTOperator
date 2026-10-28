@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🜂 ktOperator
+# ![My image](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@1fef11f567c4bd797a964dc053e33dd5aa9768fc/uploads/2026-10-28T10-25-51-505Z-rmt5vhaev.jpg)
 
 [![version](https://img.shields.io/badge/version-0.5.0-8B9A6E?style=flat-square)](https://www.npmjs.com/package/@karizteam/operator)
 [![node](https://img.shields.io/badge/node-%E2%89%A522.12-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
