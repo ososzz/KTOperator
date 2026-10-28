@@ -1,13 +1,15 @@
 <div align="center">
 
-# ![My image](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@1fef11f567c4bd797a964dc053e33dd5aa9768fc/uploads/2026-10-28T10-25-51-505Z-rmt5vhaev.jpg)
+<img width="2560" height="635" alt="5987703028384993056" src="https://github.com/user-attachments/assets/4029e61e-b074-4baf-b896-99d921f6aaa2" />
 
 [![version](https://img.shields.io/badge/version-0.6.0-8B9A6E?style=flat-square)](https://www.npmjs.com/package/@karizteam/operator)
 [![node](https://img.shields.io/badge/node-%E2%89%A522.12-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![tests](https://img.shields.io/badge/tests-358%20passing-success?style=flat-square)](#-development)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-**The AI decides what it wants to do. The security engine decides what it is allowed to do.**
+<img width="1672" height="941" alt="KT Operator_ Neural Terminal Interface" src="https://github.com/user-attachments/assets/5cd8f39c-eacb-471b-897f-8222c36d4529" />
+
+**Take the power of your operating system using your favorite AI model.**
 
 🇮🇷 [راهنمای فارسی](README.fa.md) · [🧩 Architecture](docs/architecture.md) · [🛡️ Security](docs/security.md) · [⚖️ Permissions](docs/permissions.md)
 
@@ -52,16 +54,15 @@ operator plan "Run the tests and summarize the failures"      # plan only, execu
 | 💵 **Cost in the corner, not a command** | The chat box shows the session's accumulated cost — or its token count when the provider reports no price — right-aligned in its top border. Small amounts keep their precision (`$0.0042`), and the label drops before the box ever overflows on a narrow terminal. |
 | 🔁 **Provider fallback (opt-in)** | With `fallback.enabled`, a rate limit, empty credits, timeout or 5xx continues the same run on the next configured profile. Only transient failures move, never after text was streamed, and every switch is announced — off by default. |
 
-## 🚀 Install
-
+## 🚀 Install or Update
+After installing Node.js, use the following command in your terminal to install ktoperator:
 ```bash
 npm i -g @karizteam/operator
 ```
-
+**Requirements:**
 Node.js **22.12+**. Docker (optional) enables the strongest sandbox.
 
 ## 🎯 Quickstart
-
 ```bash
 ktoperator
 ```
